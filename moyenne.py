@@ -12,3 +12,5 @@ notes=[12,15,9,18]
 print("Moyenne:",moyenne(notes))
 print("note maximale:",note_max(notes))
 print("médiane:",mediane(notes))
+
+print("hello")
